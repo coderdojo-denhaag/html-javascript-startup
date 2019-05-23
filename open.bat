@@ -1,0 +1,1 @@
+\launcher.exe %CD:~0,3%intro.html
