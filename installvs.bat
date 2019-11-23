@@ -1,1 +1,1 @@
-.\tools\VSCodeUserSetup-ia32-1.30.2.exe /verysilent /mergetasks='!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,addtopath'
+.\tools\VSCodeUserSetup-ia32-1.40.1 /verysilent /mergetasks='!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,addtopath'
