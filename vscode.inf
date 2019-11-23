@@ -1,0 +1,6 @@
+[Setup]
+Lang=english
+Dir=C:\Users\CoderDojo\AppData\Local\Programs\Microsoft VS Code
+Group=Visual Studio Code
+NoIcons=0
+Tasks=addcontextmenufolders,associatewithfiles,addtopath,!runcode
